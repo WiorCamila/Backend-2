@@ -1,11 +1,8 @@
 {
-  "name": "clase04-jwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/app.js",
-    "dev": "nodemon ./src/app.js",
     "test": "node test.js"
   },
   "keywords": [],
